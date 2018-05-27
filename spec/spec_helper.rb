@@ -1,5 +1,8 @@
 # frozen_string_literal: true
 
+require 'coveralls'
+Coveralls.wear!
+
 require 'drewcoo-cops'
 require 'rubocop'
 require 'rubocop/rspec/cop_helper'
