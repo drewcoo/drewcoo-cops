@@ -1,11 +1,8 @@
 # Drewcoo-Cops
 
-[![TravisCI](https://api.travis-ci.org/drewcoo/drewcoo-cops.svg)](https://travis-ci.org/
-drewcoo/drewcoo-cops)
-[![CircleCI](https://circleci.com/gh/drewcoo/drewcoo-cops.svg?style=shield)](https://cir
-cleci.com/gh/drewcoo/drewcoo-cops)
-[![Coverage Status](https://coveralls.io/repos/github/drewcoo/drewcoo-cops/badge.svg?bra
-nch=master)](https://coveralls.io/github/drewcoo/drewcoo-cops?branch=master)
+[![TravisCI](https://api.travis-ci.org/drewcoo/drewcoo-cops.svg)](https://travis-ci.org/drewcoo/drewcoo-cops)
+[![CircleCI](https://circleci.com/gh/drewcoo/drewcoo-cops.svg?style=shield)](https://circleci.com/gh/drewcoo/drewcoo-cops)
+[![Coverage Status](https://coveralls.io/repos/github/drewcoo/drewcoo-cops/badge.svg?branch=master)](https://coveralls.io/github/drewcoo/drewcoo-cops?branch=master)
 [![Gem Version](https://badge.fury.io/rb/drewcoo-cops.svg)](https://badge.fury.io/rb/drewcoo-cops)
 
 # Who? What?
