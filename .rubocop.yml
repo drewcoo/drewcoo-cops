@@ -1,0 +1,11 @@
+inherit_from: .rubocop_todo.yml
+
+require: rubocop-rspec
+
+AllCops:
+  DefaultFormatter: progress
+  DisplayCopNames: true
+  DisplayStyleGuide: true
+  ExtraDetails: true
+  # Multiline strings with <<~foo require MRI >= 2.3
+  TargetRubyVersion: 2.3
