@@ -4,6 +4,7 @@
 [![CircleCI](https://circleci.com/gh/drewcoo/drewcoo-cops.svg?style=shield)](https://circleci.com/gh/drewcoo/drewcoo-cops)
 [![Coverage Status](https://coveralls.io/repos/github/drewcoo/drewcoo-cops/badge.svg?branch=master)](https://coveralls.io/github/drewcoo/drewcoo-cops?branch=master)
 [![Gem Version](https://badge.fury.io/rb/drewcoo-cops.svg)](https://badge.fury.io/rb/drewcoo-cops)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1351580f879346e589d9c4f908b53f05)](https://www.codacy.com/app/drewcoo/drewcoo-cops?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=drewcoo/drewcoo-cops&amp;utm_campaign=Badge_Grade)
 
 # Who? What?
 
